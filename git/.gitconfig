@@ -1,0 +1,9 @@
+[user]
+	name = Xabi Etxeberria
+	email = xabier.etxeberria93@gmail.com
+[core]
+	excludesfile = /home/xabi/.gitignore_global
+	autocrlf = input
+	editor = vim
+[init]
+	defaultBranch = main

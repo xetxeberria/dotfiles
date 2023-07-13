@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea
+*.iml
+*.iws
+.idea-compl
+*.sc
+
+# VS Code
+.vscode/
