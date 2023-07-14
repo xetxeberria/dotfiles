@@ -8,3 +8,9 @@
 	url = https://github.com/zsh-users/zsh-autosuggestions
 	branch = master
 	ignore = dirty
+
+[submodule "shell/zsh/.zim/modules/spaceship"]
+	path = shell/zsh/.zim/modules/spaceship
+	url = https://github.com/spaceship-prompt/spaceship-prompt.git
+	branch = master
+	ignore = dirty
