@@ -22,6 +22,11 @@ alias gpl="git pull --rebase --autostash"
 alias gb="git branch"
 alias gl='$DOTLY_PATH/bin/dot git pretty-log'
 
+# Tool substitutions
+alias top="btop"
+alias ls="exa"
+alias cat="bat"
+
 # Utils
 alias k='kill -9'
 alias i.='(idea $PWD &>/dev/null &)'
