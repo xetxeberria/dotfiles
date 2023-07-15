@@ -1,6 +1,11 @@
 # Enable aliases to be sudo’ed
 alias sudo='sudo '
 
+# Tool substitutions
+alias ls="exa"
+alias top="btop"
+alias cat="bat"
+
 alias ..="cd .."
 alias ...="cd ../.."
 alias ll="ls -l"
@@ -21,11 +26,6 @@ alias gpsf="git push --force"
 alias gpl="git pull --rebase --autostash"
 alias gb="git branch"
 alias gl='$DOTLY_PATH/bin/dot git pretty-log'
-
-# Tool substitutions
-alias top="btop"
-alias ls="exa"
-alias cat="bat"
 
 # Utils
 alias k='kill -9'
