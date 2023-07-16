@@ -8,4 +8,4 @@
 - link:
     ~/.dotly: os/linux/.dotly
     ~/.config/terminator/config: os/linux/terminator/config
-
+    ~/.config/rofi/config.rasi: os/linux/rofi/config.rasi
