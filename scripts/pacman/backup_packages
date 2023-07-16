@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+source "$DOTLY_PATH/scripts/core/_main.sh"
+
+##? Exports the list of packages installed with pacman
+##?
+##? Usage:
+##?    backup_packages
+docs::parse "$@"
+
+pacman -Qe > "$DOTFILES_PATH/os/linux/pacman/packages.txt"

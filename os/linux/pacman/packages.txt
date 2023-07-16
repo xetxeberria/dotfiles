@@ -204,6 +204,7 @@ qt5ct 1.7-1
 qt6ct 0.8-5
 quadrapassel 40.2-1
 reiserfsprogs 3.6.27-4
+rofi 1.7.5-1
 rsync 3.2.7-4
 rygel 1:0.42.3-1
 s-nail 14.9.24-2
@@ -235,6 +236,7 @@ unace 2.5-11
 unrar 1:6.2.8-1
 usbutils 015-3
 vi 1:070224-6
+vim 9.0.1628-1
 visual-studio-code-bin 1.80.0-1
 vlc 3.0.18-12
 vulkan-intel 23.0.4-2
